@@ -1,0 +1,1 @@
+# Minimal nginx docker implementation
