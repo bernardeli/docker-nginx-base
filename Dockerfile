@@ -1,6 +1,6 @@
 FROM alpine:3.1
 
-MAINTAINER Ghost Developer <team@netengine.com.au>
+MAINTAINER Ricardo Bernardeli <ricardobcs@gmail.com>
 
 ENV NGINX_VERSION nginx-1.7.11
 
